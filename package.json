@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasklerev/test-yasklerev.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Yasklerev/test-yasklerev/issues"
+  },
+  "homepage": "https://github.com/Yasklerev/test-yasklerev#readme"
 }
