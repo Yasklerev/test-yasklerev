@@ -1,0 +1,14 @@
+{
+  "name": "test-yasklerev",
+  "version": "1.0.2",
+  "description": "First package npm.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yasklerev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
